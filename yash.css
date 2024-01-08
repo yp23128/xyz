@@ -1,0 +1,134 @@
+html {
+    background-color: black;
+}
+
+.card {
+
+    margin-left: 6em;
+    margin-top: 2em;
+
+}
+
+.navbar {
+    margin: 0;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-variant: small-caps;
+    text-align: center;
+    margin: auto;
+    text-transform: lowercase;
+}
+
+.col-8 h1 {
+
+    color: green;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    padding: 20px;
+    border-bottom: 2em;
+    color: white;
+    text-align: center;
+    border-bottom: 10px;
+    border-color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-nav>a {
+    font-size: x-large;
+    text-decoration-color: aliceblue;
+}
+
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    text-align: left;
+    font-size: larger;
+}
+
+
+
+.navbar-nav>a:hover {
+    background-color: whitesmoke;
+    border-radius: 20px;
+
+}
+
+.nav-link {
+    font-size: 40px;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-variant: small-caps;
+    text-align: center;
+    margin: auto;
+    text-transform: lowercase;
+    color: white;
+    font: 300;
+}
+
+.h3 {
+    font-size: 3em;
+    padding: 20px;
+    border-bottom: 2em;
+    color: white;
+    text-align: left;
+    border-bottom: 10px;
+    border-color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.row {
+    padding-bottom: 10em;
+}
+
+li {
+    font-size: 1.5em;
+
+
+    color: white;
+    text-align: left;
+
+    border-color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.ul li {
+    background-color: green;
+}
+
+.carousel-inner {
+    margin-left: 30%;
+    height: 40%;
+    width: 40%;
+
+    padding-bottom: 10%;
+}
+
+.footer-wrapper_branding {
+    height: ;
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+
+form {
+    color: white;
+    background-color: black;
+    font-size: larger;
+    text-align: left;
+    padding: 10px;
+    border-radius: 10px;
+}
